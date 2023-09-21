@@ -1,0 +1,33 @@
+.home-container{
+	width: 100%;
+	background-color: rgb(255, 255, 255);
+	padding: 50px 0 ;
+	margin: auto;
+}
+
+.home-content{
+	width: 90%;
+	margin: auto;
+	padding: 50px 0;
+}
+
+.home-cards-big{
+	margin: auto;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.home-img{
+	width: 100%;
+	padding: 20px 0 0 0;
+}
+
+.home-cards-small{
+	margin: auto;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	padding-top: 30px;
+}
+

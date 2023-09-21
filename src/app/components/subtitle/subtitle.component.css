@@ -1,0 +1,14 @@
+.subtitle-container{
+	background-color: white;
+	box-shadow: 0 0px 10px 0px #e9e9e9;
+	height: 90px;
+}
+
+.subtitle-content{
+	display: flex;
+	align-items: center;
+	font-family: 'DM Sans', sans-serif;
+	height: 100%;
+	width: 90%;
+	margin-left: 10%;
+}
